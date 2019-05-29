@@ -1,0 +1,27 @@
+These are resources you can look at to better understand 
+the way the functions work and what arguments to pass
+
+Uniq:
+http://www.computerhope.com/unix/uuniq.htm
+
+Word Count:
+http://www.computerhope.com/unix/uwc.htm
+
+Translate:
+http://www.computerhope.com/unix/utr.htm
+
+Shuffle:
+https://shapeshed.com/unix-shuf/
+
+Sort:
+http://www.computerhope.com/unix/usort.htm
+
+COMMITING DIRECTIONS:
+//IF YOU MADE EDITS
+1) go to top level of repo' 
+2) git add . //adds all files to view
+3) git commit -m "SUMMIRISE YOUR EDITS" //ADD FILES TO STAGE
+4) git pull // merge edits from repo to local
+5) git push // merge your edits to repo 
+//IF YOU ARE JUST PULLING EDITS
+1) git pull //read 4
